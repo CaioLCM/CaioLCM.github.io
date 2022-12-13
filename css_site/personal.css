@@ -1,0 +1,17 @@
+h1 {
+    display: block;
+    font-family:'Lato', sans-serif;
+}
+body {
+    text-align: center;
+    background-color: #FAF8F1;
+    font-family: 'Quicksand', sans-serif;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 700px;
+}
+.top-cloud{
+    position: relative;
+    left: 180px;
+}
