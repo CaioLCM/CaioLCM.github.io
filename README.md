@@ -1,2 +1,2 @@
 # my_site
-Just my first site. -->  https://caiolcm.github.io/CaioLCM_site/
+Protótipo de currículo aplicando os conhecimentos de Git e Github.
